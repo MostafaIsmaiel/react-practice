@@ -1,2 +1,2 @@
-# React practice project No.1 (Our tours)
+# React practice project No.2 (Our tours)
 [Live preveiw](https://ourtours-react.netlify.app/)
