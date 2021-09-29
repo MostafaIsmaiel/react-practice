@@ -1,6 +1,6 @@
 # React parctice projects
 
-### Welcomee 👋
+### Welcome 👋
 Here's my practice project on React.js, Hopefully you like it.
 
 |Name|Code|Live|
