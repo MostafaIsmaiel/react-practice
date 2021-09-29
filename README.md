@@ -10,3 +10,4 @@ Here's my practice project on React.js, Hopefully you like it.
 |Our Reviews|[code](https://github.com/MostafaIsmaiel/react-practice/blob/main/our-reviews/)|[Live](https://ourreviews-react.netlify.app/)|
 |Menu|[code](https://github.com/MostafaIsmaiel/react-practice/blob/main/menu/)|[Live](https://menus-react.netlify.app/)|
 |Accordion|[code](https://github.com/MostafaIsmaiel/react-practice/blob/main/accordion/)|[Live](https://accordion-reactpractice.netlify.app/)|
+|Birthday Reminder|[code](https://github.com/MostafaIsmaiel/react-practice/blob/main/birthday-reminder/)|[Live](https://reminder-birthday-react.netlify.app/)|
